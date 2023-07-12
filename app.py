@@ -1,5 +1,5 @@
 import streamlit as st
-from helper import preprocessing_data, graph_sentiment, analyse_mention, analyse_hastag, download_data, getAnalysisSVM
+from code import preprocessing_data, graph_sentiment, analyse_mention, analyse_hastag, download_data, getAnalysisSVM
 
 # Set page configuration
 st.set_page_config(
